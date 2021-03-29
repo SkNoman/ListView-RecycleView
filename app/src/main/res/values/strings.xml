@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string-array name="CS_Courses">
+        <item>Computer Fundamentals</item>
+        <item>C Programming</item>
+        <item>Data Structure</item>
+        <item>Object Oriented Programming</item>
+        <item>Algorithms</item>
+        <item>DBMS</item>
+        <item>Computer Networking</item>
+        <item>Operating System</item>
+        <item>Wireless Programming</item>
+        <item>Software Engneering</item>
+        <item>Compiler Design</item>
+        <item>Assembly Language</item>
+        <item>Data Communication</item>
+        <item>Discrete Math</item>
+        <item>System Analysis and Design</item>
+        <item>Artificial Intelegence</item>
+        <item>Web Engineering</item>
+        <item>Simulation and Modelling</item>
+        <item>Computer Graphics</item>
+        <item>Embedded Systems</item>
+        <item>Social and Professional Issues In Computing</item>
+
+
+
+
+
+    </string-array>
+
+    <string-array name="Cars">
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Bugati</item>
+        <item>Chevloret</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyundayi</item>
+        <item>Lamborgni</item>
+        <item>Mercedes</item>
+        <item>Volvo</item>
+        <item>Volkswagen</item>
+        <item>Toyota</item>
+        <item>Ferari</item>
+        <item>Rols Royece</item>
+        <item>koenigsegg</item>
+        <item>Nissan</item>
+    </string-array>
+
+    <string-array name="Cars_desc">
+        <item>Vospuring Dutch Technic</item>
+        <item>German Giant</item>
+        <item>Made for performance</item>
+        <item>American Blood</item>
+        <item>Automobile Giant</item>
+        <item>Japanise Popular Brand</item>
+        <item>Korean Giant</item>
+        <item>Race like a bull</item>
+        <item>Perfection of dirve</item>
+        <item>Made for everyone</item>
+        <item>German Technology</item>
+        <item>Japanise Giant</item>
+        <item>Need for speed</item>
+        <item>Belive in Luxary</item>
+        <item>Made in Canada</item>
+        <item>Japan Technology</item>
+    </string-array>
+
+
+</resources>
